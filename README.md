@@ -18,7 +18,6 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new platform for user productivity using Next and .NET**
-- 🌱 I'm currently learning: **📚 Next.js**
 
 **<h3 align="center">Skills</h3>**
 
